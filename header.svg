@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title">
+<title id="title">Niklas · @niklasss06 · seit Oktober 2021 auf GitHub</title>
+<defs>
+  <radialGradient id="bg" cx="82%" cy="40%" r="88%"><stop stop-color="#253762"/><stop offset=".65" stop-color="#121729"/><stop offset="1" stop-color="#0c101a"/></radialGradient>
+  <linearGradient id="wire" x2="1" y2=".4"><stop stop-color="#727bff"/><stop offset=".55" stop-color="#b5a0ff"/><stop offset="1" stop-color="#64f0e3"/></linearGradient>
+  <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#bac4e0" opacity=".2"/></pattern>
+</defs>
+<style>@keyframes orbit{to{stroke-dashoffset:-950}}.signal{animation:orbit 10s linear infinite}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+<rect width="1000" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="320" rx="18" fill="url(#dots)"/>
+<g transform="translate(777 158) rotate(-22)" fill="none" stroke="url(#wire)" stroke-width="1.4">
+<ellipse rx="134" ry="59" transform="rotate(0)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(9)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(18)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(27)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(36)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(45)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(54)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(63)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(72)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(81)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(90)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(99)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(108)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(117)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(126)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(135)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(144)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(153)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(162)" opacity=".8"/>
+<ellipse rx="134" ry="59" transform="rotate(171)" opacity=".8"/>
+<ellipse rx="190" ry="62" stroke="#8087bf" opacity=".65"/>
+<ellipse class="signal" rx="190" ry="62" pathLength="950" stroke="#a0fff3" stroke-dasharray="30 920" stroke-width="3"/>
+</g>
+<g font-family="Menlo,Consolas,monospace"><text x="54" y="76" font-size="20" fill="#9cf3e2">@niklasss06</text>
+<text x="48" y="194" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-6" fill="#f5f5ff">Niklas</text>
+<path d="M55 234h34" stroke="#9cf3e2" stroke-width="3"/>
+<text x="55" y="274" fill="#c1c8db" font-size="19">Auf GitHub seit Oktober 2021</text></g></svg>
