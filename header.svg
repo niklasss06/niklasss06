@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title">
-<title id="title">Niklas · @niklasss06 · seit Oktober 2021 auf GitHub</title>
+<title id="title">Niklas · @niklasss06 · Business Information Systems Student | Work-Study Program @DHL</title>
 <defs>
   <radialGradient id="bg" cx="82%" cy="40%" r="88%"><stop stop-color="#253762"/><stop offset=".65" stop-color="#121729"/><stop offset="1" stop-color="#0c101a"/></radialGradient>
   <linearGradient id="wire" x2="1" y2=".4"><stop stop-color="#727bff"/><stop offset=".55" stop-color="#b5a0ff"/><stop offset="1" stop-color="#64f0e3"/></linearGradient>
@@ -35,4 +35,4 @@
 <g font-family="Menlo,Consolas,monospace"><text x="54" y="76" font-size="20" fill="#9cf3e2">@niklasss06</text>
 <text x="48" y="194" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-6" fill="#f5f5ff">Niklas</text>
 <path d="M55 234h34" stroke="#9cf3e2" stroke-width="3"/>
-<text x="55" y="274" fill="#c1c8db" font-size="19">Auf GitHub seit Oktober 2021</text></g></svg>
+<text x="55" y="274" fill="#c1c8db" font-size="15">Business Information Systems Student | Work-Study Program @DHL</text></g></svg>
